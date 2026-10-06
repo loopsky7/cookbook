@@ -21,7 +21,7 @@ Frozen merluza (hake) at home on the plancha = pale, watery, steamed. In Gran Ca
 - [`science/frozen-fish-and-browning.md`](science/frozen-fish-and-browning.md) — why frozen fish gets watery, Maillard physics, brining science, temps, oils
 - [`pantry/metabolism-friendly-spices.md`](pantry/metabolism-friendly-spices.md) — spice ideas that pair with fish and are commonly linked to metabolic support
 - [`sources.md`](sources.md) — full bibliography (Spanish chef sources + food science)
-- [`travel/vietnam-cafes-bars-music.md`](travel/vietnam-cafes-bars-music.md) — the best cafés, bars and music in Hanoi, Sa Pa, Phú Quốc and Saigon (researched Oct 2026)
+- [`travel/vietnam-cafes-bars-music.md`](travel/vietnam-cafes-bars-music.md) — the best cafés, bars, music, games and books in Hanoi, Ninh Bình, Sa Pa, Phú Quốc and Saigon (researched Oct 2026)
 
 ## Roadmap
 
